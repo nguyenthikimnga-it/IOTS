@@ -3,7 +3,7 @@ import time
 import os
 
 # ESP8266 Configuration
-ESP8266_HOST = os.getenv("ESP8266_HOST", "10.141.235.134")
+ESP8266_HOST = os.getenv("ESP8266_HOST", "10.248.105.134")
 REQUEST_TIMEOUT = 5
 MAX_RETRY = 3
 
